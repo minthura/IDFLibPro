@@ -1,0 +1,26 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Espressif\\tools\\xtensa-esp-elf\\esp-13.2.0_20240530\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "files.associations": {
+      "ninja.h": "c",
+      "cstdint": "c",
+      "freertos.h": "c",
+      "task.h": "c",
+      "spi_master.h": "c",
+      "gpio.h": "c",
+      "ssd1351.h": "c",
+      "display_wrapper.h": "c",
+      "stdint.h": "c",
+      "lovyangfx.hpp": "c",
+      "frames.h": "c",
+      "rm67162.h": "c"
+    },
+    "terminal.integrated.profiles.windows": {
+          "ESP-IDF": {
+            "path": "C:\\WINDOWS\\System32\\cmd.exe",
+            "args": ["/k", "C:\\Espressif\\idf_cmd_init.bat",  "esp-idf-ab7213b7273352b64422b1f400ff27a0"]
+          }
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
